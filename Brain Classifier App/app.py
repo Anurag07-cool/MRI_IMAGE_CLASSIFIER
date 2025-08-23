@@ -36,9 +36,8 @@ def index():
 
     return render_template('index.html', prediction=prediction, image_url=image_url)
 
-if __name__ == '__main__':
-    app.run(debug=True)
-run_with_ngrok(app)
+if __name__ == "__main__":
+    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
 
 
 # from flask import Flask, render_template, request
