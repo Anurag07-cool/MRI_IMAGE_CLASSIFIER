@@ -185,5 +185,5 @@ For technical support or questions:
 
 ---
 
-**Built with ❤️ for the medical research community**
+
 
