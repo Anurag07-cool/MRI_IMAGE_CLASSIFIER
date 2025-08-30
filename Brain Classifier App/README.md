@@ -1,4 +1,4 @@
-# AI Brain Tumor Classifier
+# Brain Tumor Classifier
 
 A modern, professional web application for classifying brain tumors from MRI scans using deep learning. This application provides an intuitive interface for healthcare professionals and researchers to analyze brain MRI images.
 
